@@ -11,7 +11,7 @@
 
     <modules>
         <module>payment-adapter-service</module>
-        <module>token-service</module>
+        <module>user-service</module>
         <module></module>
         <module>course-service</module>
     </modules>
